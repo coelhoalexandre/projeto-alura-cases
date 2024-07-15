@@ -1,5 +1,5 @@
 
-<h1 align="center"> Projeto TratoTech </h1>
+<h1 align="center"> Projeto Alura Cases </h1>
 
 <div align="center">
 
@@ -16,15 +16,15 @@
 
 ## Sobre o Projeto
 
-Projeto realizado no curso [React: testando um projeto com bibliotecas externas](https://cursos.alura.com.br/course/react-testando-projeto-bibliotecas-externas) instruido por [**Luiz Fernando**](https://github.com/lfrprazeres).
+Projeto realizado no curso [Next.js: explorando o framework](https://cursos.alura.com.br/course/next-js-iniciando-framework) instruido por [**Mario Souto**](https://github.com/omariosouto).
 
 ## Objetivos do Projeto
 
-- Entender como o jest recomenda a configuração de mocks de bibliotecas externas
-- Aprender como funciona a configuração de Wrappers como BrowserRouter e Provider dentro do React Testing Library
-- Realizar testes totalmente práticos em um projeto real e robusto com bibliotecas externas
-- Saber como configurar ambiente de testes em diferentes cenários, para que isso nunca mais seja um problema para você
-- Utilizar testes úteis baseado em cada biblioteca externa mencionada e utilizadas
+- Reconhecer os benefícios do Next.js
+- Entender como o Next.js ajuda no SEO de seu site
+- Implementar estilizar sua aplicação Next.js
+- Investigar como o Next.js busca dados estáticos e dinâmicos
+- Criar seu projeto na Vercel
 
 ## Tecnolgias Utilizadas
 
@@ -32,7 +32,7 @@ Projeto realizado no curso [React: testando um projeto com bibliotecas externas]
 2. CSS
 3. JS
 4. React
-5. Jest
+5. Next
 
 ## Autor
 Meu nome é **Alexandre Coelho**, sou autor deste ReadMe e estudante de Desenvolvimento Web. 
